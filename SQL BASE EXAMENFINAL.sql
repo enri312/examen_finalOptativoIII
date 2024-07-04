@@ -10,6 +10,7 @@ CREATE TABLE Proveedor (
     estado BOOLEAN
 );
 
+
 CREATE TABLE Sucursal (
     id_sucursal SERIAL PRIMARY KEY,
     descripcion VARCHAR(255),
